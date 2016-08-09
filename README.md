@@ -1,2 +1,2 @@
 # hello-world
-Sample Repository
+Sample Repository edited to understand commits and branch creations.
